@@ -15,10 +15,10 @@
       "startDate": "2021",
       "description": "Using game API free-source to create. With some features like: search games according to title, sign in, sign up, loading animation, apply axios and RESTful API, redux, react-router, framer-motion, sytled-components",
       "images": [
-        "images/portfolio/gameAPI/main.png",
-        "images/portfolio/gameAPI/signin.png",
-        "images/portfolio/gameAPI/signup.png",
-        "images/portfolio/gameAPI/popular.png"
+        "images/portfolio/gameAPI/main.PNG",
+        "images/portfolio/gameAPI/signin.PNG",
+        "images/portfolio/gameAPI/signup.PNG",
+        "images/portfolio/gameAPI/popular.PNG"
       ],
       "url": "https://yuhdc.github.io/games/#/",
       "technologies": [
