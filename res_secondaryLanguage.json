@@ -15,10 +15,10 @@
       "startDate": "2021",
       "description": "Xây dựng dự án từ free-source API. Gồm những chức năng:tìm kiếm game theo tựa game, đăng ký, đăng nhập, hiệu ứng loading, sử dụng axios là thao tác với dữ liệu REST api, sử dụng redux, react-router, framer-motion, sytled-components, và 1 số hiệu ứng cool ngầu",
       "images": [
-        "images/portfolio/gameAPI/main.png",
-        "images/portfolio/gameAPI/signin.png",
-        "images/portfolio/gameAPI/signup.png",
-        "images/portfolio/gameAPI/popular.png"
+        "images/portfolio/gameAPI/main.PNG",
+        "images/portfolio/gameAPI/signin.PNG",
+        "images/portfolio/gameAPI/signup.PNG",
+        "images/portfolio/gameAPI/popular.PNG"
       ],
       "url": "https://yuhdc.github.io/games/#/",
       "technologies": [
@@ -139,16 +139,16 @@
       "url": "https://weather-forecast-cdh.netlify.app/",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-original",
+          "name": "React"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-css3-plain",
+          "name": "CSS"
         }
       ]
     }
