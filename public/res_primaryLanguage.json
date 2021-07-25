@@ -1,0 +1,225 @@
+{
+  "basic_info": {
+    "description_header": "Hello world,",
+    "description": "I'm a self-proclaimed web-developer. If in need of someone who is freaking passionate with nonstop programming, who replies at 2 a.m, who daily breaks his own records, who plays badminton 6 days/week and who can play with you a few rounds of chess? Drop me a message!",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "GameApi",
+      "startDate": "2021",
+      "description": "Using game API free-source to create. With some features like: search games according to title, sign in, sign up, loading animation, apply axios and RESTful API, redux, react-router, framer-motion, sytled-components",
+      "images": [
+        "images/portfolio/gameAPI/main.png",
+        "images/portfolio/gameAPI/signin.png",
+        "images/portfolio/gameAPI/signup.png",
+        "images/portfolio/gameAPI/popular.png"
+      ],
+      "url": "https://yuhdc.github.io/games/#/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }, 
+        {
+          "class": "devicon-redux-original",
+          "name": "React-redux"
+        }
+      ]
+    },
+    {
+      "title": "Portfolio",
+      "startDate": "2021",
+      "description": "Portfolio template that can be serve for personal purpose. Including separated sections (About, Projects, Skills, Experience/Qualification). With friendly design, light/dark theme feature and menu for mobile view.",
+      "images": [
+        "images/portfolio/portfolio/header.png",
+        "images/portfolio/portfolio/projects.png",
+        "images/portfolio/portfolio/skills.png",
+        "images/portfolio/portfolio/experience.png",
+        "images/portfolio/portfolio/contact.png"
+      ],
+      "url": "https://mycv-cdh.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "React Template",
+      "startDate": "2021",
+      "description": "I have no idea how a build this one, but it look cool, that's all.",
+      "images": [
+        "images/portfolio/reactTemplate/react1.PNG",
+        "images/portfolio/reactTemplate/react2.PNG"
+      ],
+      "url": "https://capture-cdh.netlify.app/r",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Music App",
+      "startDate": "2021",
+      "description": "Tiny app that run music automatically, next/previous, music selecting feature. A few colorful effect along with my favorite list",
+      "images": [
+        "images/portfolio/music/music.PNG"
+      ],
+      "url": "https://music-app-cdhuy.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Bau Cua Game",
+      "startDate": "2021",
+      "description": "Traditional game of VietNam, easy build easy play",
+      "images": [
+        "images/portfolio/game/game1.PNG"
+      ],
+      "url": "https://minigame-cdh.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Weather App",
+      "startDate": "2021",
+      "description": "Mini web app using API to indicating status quo of searched locations and forecasting according to days, or hours. Give it a try",
+      "images": [
+        "images/portfolio/weather/weather1.PNG"
+      ],
+      "url": "https://weather-forecast-cdh.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Ho Chi Minh University of Science",
+      "title": "Information Technology",
+      "years": "11.2020 - present",
+      "mainTech": [
+        "C#"
+      ],
+      "technologies": [
+        ".NET 5",
+        "Razor",
+        "MySQL"
+      ]
+    },
+    {
+      "company": "Self-study",
+      "title": "Developer",
+      "years": "9.2020 - present",
+      "mainTech": [
+        "ReactJS"
+      ],
+      "technologies": [
+        "REST API",
+        "React",
+        "Redux",
+        "React-router",
+        "Styled Components",
+        "CSS/SCSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "company": "Orana Vietnam Ltd",
+      "title": "Product Supervisor - RD Specialist",
+      "years": "06.2020 - 08.2021",
+      "mainTech": [
+        "Pandas"
+      ],
+      "technologies": [
+        ""
+      ]
+    },
+    {
+      "company": "Heineken Vietnam Brewery",
+      "title": "Brewing Technician",
+      "years": "10.2018 - 04.2020",
+      "mainTech": [
+        "Brewmaxx"
+      ],
+      "technologies": [
+        "Tiger process",
+        "Strongbow process",
+        "TPM-5S-Kaizen"
+      ]
+    },
+    {
+      "company": "Ho Chi Minh University of Science",
+      "title": "Biotechnology",
+      "years": "09.2014 - 11.2018",
+      "mainTech": [
+        "RT PCR",
+        "realtime PCR",
+        "RT realtime PCR"
+      ],
+      "technologies": [
+        ""
+      ]
+    }
+  ]
+}

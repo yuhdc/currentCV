@@ -1,0 +1,225 @@
+{
+  "basic_info": {
+    "description_header": "Hello world,",
+    "description": "Mình mê toán từ bé, giải những câu hỏi, câu đố luôn làm mình cảm thấy phấn khích và vui. Đó là điều tương tự mà lập trình mang lại, có thể ngồi làm việc cả ngày mà không thấy chán. Cảm thấy cực kỳ thỏa mãn khi thực hiện từng chức năng nhỏ, góp lại từng chút và tự trải nghiệm sản phẩm của mình. ",
+    "section_name": {
+      "about": "Giới thiệu về bản thân",
+      "projects": "Sản phẩm",
+      "skills": "Kỹ năng",
+      "experience": "Kinh nghiệm/Bằng cấp"
+    }
+  },
+  "projects": [
+    {
+      "title": "GameApi",
+      "startDate": "2021",
+      "description": "Xây dựng dự án từ free-source API. Gồm những chức năng:tìm kiếm game theo tựa game, đăng ký, đăng nhập, hiệu ứng loading, sử dụng axios là thao tác với dữ liệu REST api, sử dụng redux, react-router, framer-motion, sytled-components, và 1 số hiệu ứng cool ngầu",
+      "images": [
+        "images/portfolio/gameAPI/main.png",
+        "images/portfolio/gameAPI/signin.png",
+        "images/portfolio/gameAPI/signup.png",
+        "images/portfolio/gameAPI/popular.png"
+      ],
+      "url": "https://yuhdc.github.io/games/#/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }, 
+        {
+          "class": "devicon-redux-original",
+          "name": "React-redux"
+        }
+      ]
+    },
+    {
+      "title": "Portfolio",
+      "startDate": "2021",
+      "description": "Mẫu portfolio, có chia từng đề mục rõ ràng như About, Skill, Contact, Experience, Projects. Có thêm 1 số hiệu ứng đơn sản, thanh đinh hướng cho mobile view, chế độ ban đêm, nút về đầu trang, responsive, dễ dàng thay đổi tông màu chủ đạo",
+      "images": [
+        "images/portfolio/portfolio/header.png",
+        "images/portfolio/portfolio/projects.png",
+        "images/portfolio/portfolio/skills.png",
+        "images/portfolio/portfolio/experience.png",
+        "images/portfolio/portfolio/contact.png"
+      ],
+      "url": "https://mycv-cdh.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "React Template",
+      "startDate": "2021",
+      "description": "Trang này ngẫu nhiên tạo ra lấy ý tưởng từ một youtuber, thiết kế bắt mắt, hiệu ứng đơn giản viết chay bằng css nhưng ấn tượng",
+      "images": [
+        "images/portfolio/reactTemplate/react1.PNG",
+        "images/portfolio/reactTemplate/react2.PNG"
+      ],
+      "url": "https://capture-cdh.netlify.app/r",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Ứng dụng âm nhạc",
+      "startDate": "2021",
+      "description": "Trang web nghe nhạc nhỏ gọn bao gồm những ca khúc mình hay nghe, với các chức năng: đóng mở danh sách nhạc, chuyển bài, tự động chạy. Thiết kế này chắc chắn sẽ được mình đầu tư thêm trong tương lai",
+      "images": [
+        "images/portfolio/music/music.PNG"
+      ],
+      "url": "https://music-app-cdhuy.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Bầu Cua Cá",
+      "startDate": "2021",
+      "description": "Trò chơi truyền thống bầu cua cá của Việt Nam, đặt tiền và xốc xúc sắc.",
+      "images": [
+        "images/portfolio/game/game1.PNG"
+      ],
+      "url": "https://minigame-cdh.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Dự báo thời tiết",
+      "startDate": "2021",
+      "description": "Ứng dụng dự báo thời tiết có dùng API, lấy thông tin những địa điểm trên toàn cầu, hiển thị ra tình hình tời tiết hiện tại và dự báo thời tiết 3 ngày gần nhất",
+      "images": [
+        "images/portfolio/weather/weather1.PNG"
+      ],
+      "url": "https://weather-forecast-cdh.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Ho Chi Minh University of Science",
+      "title": "Information Technology",
+      "years": "11.2020 - present",
+      "mainTech": [
+        "C#"
+      ],
+      "technologies": [
+        ".NET 5",
+        "Razor",
+        "MySQL"
+      ]
+    },
+    {
+      "company": "Self-study",
+      "title": "Developer",
+      "years": "9.2020 - present",
+      "mainTech": [
+        "ReactJS"
+      ],
+      "technologies": [
+        "REST API",
+        "React",
+        "Redux",
+        "React-router",
+        "Styled Components",
+        "CSS/SCSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "company": "Orana Vietnam Ltd",
+      "title": "Product Supervisor - RD Specialist",
+      "years": "06.2020 - 08.2021",
+      "mainTech": [
+        "Pandas"
+      ],
+      "technologies": [
+        ""
+      ]
+    },
+    {
+      "company": "Heineken Vietnam Brewery",
+      "title": "Brewing Technician",
+      "years": "10.2018 - 04.2020",
+      "mainTech": [
+        "Brewmaxx"
+      ],
+      "technologies": [
+        "Tiger process",
+        "Strongbow process",
+        "TPM-5S-Kaizen"
+      ]
+    },
+    {
+      "company": "Ho Chi Minh University of Science",
+      "title": "Biotechnology",
+      "years": "09.2014 - 11.2018",
+      "mainTech": [
+        "RT PCR",
+        "realtime PCR",
+        "RT realtime PCR"
+      ],
+      "technologies": [
+        ""
+      ]
+    }
+  ]
+}
