@@ -1,0 +1,74 @@
+{
+    "basic_info": {
+        "name": "Cao Duc Huy",
+        "title": "Front-end Developer",
+        "description": "Self proclaim as a web-developer. Summon me if desired the one who freaking passionate with nonstopable programing, who reply at 2 a.m, who daily break his own records, who play badminton 6 days/week, and how about a few round of chess, huh ?",
+        "social": [
+          {
+            "name": "github",
+            "url": "https://github.com/yuhdc",
+            "class": "fab fa-github"
+          },
+          {
+            "name": "Linkedin",
+            "url": "https://www.linkedin.com/in/cao-duc-huy-09a928133/",
+            "class": "fab fa-linkedin-in"
+          },
+          {
+            "name": "Codepen",
+            "url": "https://codepen.io/yuhdc",
+            "class": "devicon-codepen-plain"
+          }
+        ],
+        "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+          {
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
+          },
+          {
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain",
+            "level": "70"
+          },
+          {
+            "name": "Sass",
+            "class": "devicon-sass-original",
+            "level": "75"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain",
+            "level": "85"
+          },
+          {
+            "name": "C#",
+            "class": "devicon-csharp-plain",
+            "level": "65"
+          },
+          {
+            "name": "React",
+            "class": "devicon-react-original",
+            "level": "70"
+          },
+          {
+            "name": "React-redux",
+            "class": "devicon-redux-original",
+            "level": "70"
+          },
+          {
+            "name": "Figma",
+            "class": "devicon-figma-plain",
+            "level": "50"
+          }
+      ]
+    }
+  }
