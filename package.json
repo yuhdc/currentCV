@@ -1,6 +1,7 @@
 {
   "name": "react-portfolio",
   "version": "0.1.0",
+  "homepage": "https://yuhdc.github.io/currentCV/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -44,7 +45,7 @@
   "devDependencies": {
     "@iconify/icons-logos": "^1.0.12",
     "@iconify/react": "^1.1.3",
-    "gh-pages": "^3.1.0",
+    "gh-pages": "^3.2.3",
     "node-sass": "^4.14.1"
   }
 }
